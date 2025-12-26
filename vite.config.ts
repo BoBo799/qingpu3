@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: '/power-order-demo/', // 明确设置为 GitHub 仓库名称
+      base: '/qingpu3/', // 明确设置为 GitHub 仓库名称
       server: {
         port: 3000,
         host: '0.0.0.0',
