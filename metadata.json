@@ -1,0 +1,7 @@
+{
+  "name": "配网运维工单智能质检系统 (管理侧)",
+  "description": "基于BS架构的智能化配网运维工单质检管理平台，集全景监控、规则配置、智能分析、闭环督办与绩效评价于一体。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
